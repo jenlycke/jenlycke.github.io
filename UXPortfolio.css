@@ -8,7 +8,7 @@ body {
 	position: relative;
 }
 
-p, span {
+p, span, td, .processcircle {
 	font-family: 'Oxygen', sans-serif; font-weight: 400;
 }
 
