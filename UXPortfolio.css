@@ -558,6 +558,12 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	margin-right: auto;
 }
 
+.qualstext {
+	font-size: .85em;
+	text-align: left;
+	color: #ffffff;
+}
+
 .qualssubheader {
 	text-transform: uppercase;
 	color: #ffffff;
