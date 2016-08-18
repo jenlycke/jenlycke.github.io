@@ -271,7 +271,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 .endresults {
 	background-color: #ccffcc;
 	text-align: left;
-	height: inherit;
+	min-height: 125px;
 
 }
 
@@ -318,6 +318,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	color: black;
 	padding: 10px;
 	margin: 0px;
+	margin-bottom: 10px;
 	position: relative;
 	left: 105px;
 	top: 0px;
