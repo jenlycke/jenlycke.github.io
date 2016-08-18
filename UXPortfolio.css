@@ -477,9 +477,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	background-color: #ffffff;
 }
 
-.qualstext {
-	font-size: 12px;
-}
+
 
 
 }
@@ -506,7 +504,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 }
 
 .qualstext {
-	font-size: .82em;
+	font-size: 12px;
 	text-align: left;
 }
 
