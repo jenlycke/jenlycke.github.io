@@ -609,7 +609,14 @@ and (max-width : 700px)  {
 }
 
 }
+@media screen and (min-width: 400px) and (max-width: 765px) {
 
+div.col-xs-12 {
+	float: none;
+   	margin: 0 auto;
+	padding-left: 25%;
+}
+}
 
 
 </style>
