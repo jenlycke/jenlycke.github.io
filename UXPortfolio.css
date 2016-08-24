@@ -355,12 +355,25 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 .contactmeforportfolio {
 	background-color: #7a7675;
-	height: 40px;
+	height: 110px;
 	color: #ffffff;
 	font-size: 16px;
 	font-weight: 400;
 	text-align: center;
-	line-height: 40px;
+	line-height: 20px;
+	padding-top: 10px;
+}
+
+.samples {
+	display: block;
+	position: relative;
+	width: 280px;
+}
+
+.contactmeforportfolio ul {
+	text-align: left;
+	margin: 0 auto;
+
 }
 
 .contactmeforportfolio a {
