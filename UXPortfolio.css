@@ -225,7 +225,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 #longwhitearrow {
 	background-image: URL("Images/longwhitearrow.png");
-	width: 950px;
+	width: 550px;
 	height: 100px;
 	background-repeat: no-repeat;
 	margin-left: auto;
