@@ -116,10 +116,11 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 #sshero {
 	height: 418px;
+	background-color: #000;
 }
 
 .keyqualifications {
-	padding-bottom: 20px;
+	padding-bottom: 0px;
 
 }
 
