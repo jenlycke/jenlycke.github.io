@@ -112,11 +112,12 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	background-size: cover;
 	height: 418px;
 
+
 }
 
 #sshero {
-	height: 418px;
 	background-color: #000;
+	height: 418px;
 }
 
 .keyqualifications {
@@ -176,7 +177,6 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 #process {
 	background-color: #e2f1f6;
 	height: 300px;
-	position: relative;
 	width: 100%;
 }
 
