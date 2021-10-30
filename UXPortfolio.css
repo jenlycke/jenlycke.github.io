@@ -748,10 +748,10 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	margin-left: auto;
 	margin-right: auto;
 	width: auto;
-	max-width: 90%;
-	min-width: 90%;
+	max-width: 98%;
+	min-width: 98%;
 	background: transparent !important;
-	opacity: .8;
+	opacity: .9;
 }
 
 #hero {
