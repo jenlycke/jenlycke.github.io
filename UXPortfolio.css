@@ -718,8 +718,35 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 @media screen and (max-width: 765px) {
 
+.name {
+	color: #000;
+	font-size: 25px;
+	padding-left: 3px;
+	padding-top: 120px;
+	margin-top: 120px;
 
+}
 
+.role {
+	font-size: 19px;
+	color:#6aa7b9;
+	margin-top: 10px;
+	padding-top: 30px;
+	padding-left: 10px;
+}
+
+.greeting {
+	/*background-size: cover;*/
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 250px;
+	min-width: 55%;
+	min-height: 70%;
+	background: transparent !important;
+	opacity: .8;
+}
 
 .navbar-nav {
 	width: 220px;
