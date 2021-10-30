@@ -169,11 +169,18 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	margin-top: 80px;
 	background-image: url("Images/hero-image.jpg");
 	background-size: cover;
-	height: 38px;
+	height: 15px;
 	margin-bottom: 30px;
 
 }
 
+.tornpaperimg {
+	display: block;
+}
+
+.tornpaperimgmobile {
+	display: none;
+}
 
 #quote p {
 	font-family: 'Dancing Script', cursive;
@@ -198,6 +205,14 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 .greetingcontainer {
 	position: relative;
+}
+
+.tornpaperimg {
+	border: none;
+}
+
+.tornpaperimagemobile {
+	display:none;
 }
 
 .greetingtext {
@@ -766,6 +781,14 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	background-image: url("Images/hero-image.jpg");
 	background-size: cover;
 
+}
+
+.tornpaperimg {
+	display: none;
+}
+
+.tornpaperimgmobile {
+	display: block;
 }
 
 .navbar-nav {
