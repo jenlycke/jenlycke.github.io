@@ -783,8 +783,6 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	
 }
 .navbar-nav {
-	display: block;
-	width: 120px;
 	height: 100%;
 	/*z-index: 100;*/
 	text-align: center;
