@@ -769,7 +769,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 }
 
 .navbar-nav {
-	width: 100px;
+	width: 80px;
 	z-index: 100;
 	text-align: center;
 }
