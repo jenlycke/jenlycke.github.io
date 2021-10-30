@@ -750,6 +750,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	width: auto;
 	max-width: 98%;
 	min-width: 98%;
+	max-height: 98%;
 	background: transparent !important;
 	opacity: .9;
 }
@@ -772,7 +773,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 #hero {
 	padding-top: 8px;
-	height: 260px;
+	height: 258px;
 }
 
 .keyqualifications {
