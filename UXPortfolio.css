@@ -650,7 +650,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 .contactmeforportfolio {
 	background-color: #7a7675;
-	height: 40px;
+	height: 12px;
 	color: #ffffff;
 	font-size: 16px;
 	font-weight: 400;
@@ -792,7 +792,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	margin-left: 150px;
 	/*z-index: 100;*/
 	text-align: center;
-	background-color: #e2f1f6;
+	background-color: #C9EAF2;
 }
 
 .navbar-default {
