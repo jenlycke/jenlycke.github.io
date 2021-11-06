@@ -753,8 +753,17 @@ video {
 
 }
 
+.beforeredesign {
+	width: 45%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: #999;
+}
+
 .thycabefore {
-	width: 85%;
+	width: 55%;
 	height: auto;
 	display: block;
 	margin-left: auto;
