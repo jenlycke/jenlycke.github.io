@@ -753,6 +753,24 @@ video {
 
 }
 
+.thycabefore {
+	width: 85%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: #999;
+}
+
+.castlekayaksimages {
+	width: 90%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: #999;
+}
+
 .jllogo {
 	padding-bottom: 0px;
 	width: 50px;
@@ -892,7 +910,14 @@ video {
 	margin-right: 50px;
 	background-color: #ffffff;
 }
-
+.casestudyimage {
+	display: block;
+	width: 95%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 800px;
+}
 
 }
 
