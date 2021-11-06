@@ -741,7 +741,8 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 @media screen and (max-width: 765px) {
 
 .myvideo {
-	width: 90%;
+	width: 80%;
+	max-width: 80%;
 	height: auto;
 	display: block;
 	margin-left: auto;
@@ -899,6 +900,7 @@ video {
 
 .myvideo {
 	width: 40%;
+	max-width: 40%;
 	height: auto;
 	display: block;
 	margin-left: auto;
