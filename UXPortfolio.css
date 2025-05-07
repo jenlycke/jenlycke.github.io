@@ -81,7 +81,7 @@ h1, h2, h3, h4 {
     	background-color: #FFFFFF;
     	border-color: #6aa7b9;
 		border: thin;
-    	height: 90px;
+    	height: 110px;
     	/*padding-right: 20px;*/
 }
 
@@ -169,18 +169,11 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	margin-top: 80px;
 	background-image: url("Images/hero-image.jpg");
 	background-size: cover;
-	height: 10px;
+	height: 38px;
 	margin-bottom: 30px;
 
 }
 
-.tornpaperimg {
-	display: block;
-}
-
-.tornpaperimgmobile {
-	display: none;
-}
 
 #quote p {
 	font-family: 'Dancing Script', cursive;
@@ -197,7 +190,6 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	width: 625px;
 	height: 250px;
 	min-width: 55%;
-	max-width: 75%;
 	min-height: 70%;
 	background: transparent !important;
 	opacity: .8;
@@ -205,14 +197,6 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 .greetingcontainer {
 	position: relative;
-}
-
-.tornpaperimg {
-	border: none;
-}
-
-.tornpaperimagemobile {
-	display:none;
 }
 
 .greetingtext {
@@ -427,6 +411,18 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	margin-top: 20px;
 
 }
+#showcaseacuity{
+	/*padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;*/
+	background-image:url(AIinMultipleDevices.png);
+	background-size: cover;
+	image-size: 100%;
+	height: 644px;
+	margin-top: 20px;
+
+}
+
 
 .showcasebackground {
 	background-color: #dfdbdc;
@@ -459,6 +455,16 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 800px;
+}
+
+.casestudyimagesmaller{
+	display: block;
+	width: 70%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	max-height: 350px;
+	width: 500px;
 }
 
 .casestudyheaderimg {
@@ -650,7 +656,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 .contactmeforportfolio {
 	background-color: #7a7675;
-	height: 12px;
+	height: 40px;
 	color: #ffffff;
 	font-size: 16px;
 	font-weight: 400;
@@ -723,13 +729,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	padding-top: 25px;
 	font-size: 11px;
 }
-.myvideo {
-	width: 25%;
-	height: auto;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
+
 
 /*media queries---------------------------------------------------------------------------------------*/
 
@@ -740,159 +740,18 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 @media screen and (max-width: 765px) {
 
-.myvideo {
-	width: 75%;
-	max-width: 75%;
-	height: auto;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
 
-video {
-
-}
-
-.beforeredesign {
-	width: 45%;
-	height: auto;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	box-shadow: #999;
-}
-
-.thycabefore {
-	width: 55%;
-	height: auto;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	box-shadow: #999;
-}
-
-.castlekayaksimages {
-	width: 90%;
-	height: auto;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	box-shadow: #999;
-}
-
-.jllogo {
-	padding-bottom: 0px;
-	width: 50px;
-	height: 50px;
-	margin-top: 5px;
-	margin-right: 0px;
-	margin-left: 0px;
-	padding-left: 0px;
-	
-}
-
-.jllogo {
-	padding-bottom: 0px;
-	width: 50px;
-	height: 50px;
-	margin-top: 5px;
-	margin-right: 0px;
-	margin-left: 0px;
-	padding-left: 0px;
-	
-}
-
-.name {
-	color: #000;
-	font-size: 22px;
-	padding-left: 0px;
-	padding-top: 10px;
-
-}
-
-.role {
-	font-size: 17px;
-	color:#6aa7b9;
-	margin-top: 10px;
-}
-
-.navbar .navbar-header {
-	position: absolute;
-	right: 0;
-	top: 0;
-	margin-top: 0px;
-}
-
-.navbar .navbar-collapse {
-	width: 100%;
-	height: auto;
-	border: 1px;
-}
 
 
 .navbar-nav {
-	height: 100%;
-	width: 500px;
-	margin-top: 22px;
-	margin-left: 150px;
-	/*z-index: 100;*/
+	width: 220px;
+	z-index: 100;
 	text-align: center;
-	background-color: #C9EAF2;
 }
-
-.navbar-default {
-    	background-color: #FFFFFF;
-    	border-color: #6aa7b9;
-		border: thin;
-    	height: 73px;
-    	/*padding-right: 20px;*/
-}
-
-.navbar img {
-	padding-right: 5px;
-	padding-bottom: 5px;
-}
-
-#navbar-example {
-	/*width: 400px;*/
-}
-
-.greeting {
-	/*background-size: cover;*/
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: auto;
-	max-width: 98%;
-	min-width: 98%;
-	max-height: 98%;
-	background: transparent !important;
-	opacity: .8;
-}
-
-#hero {
-	/*padding-top: 50px;
-	padding-left: 50px;
-	padding-right: 50px;*/
-	margin-top: 73px;
-	background-image: url("Images/hero-image.jpg");
-	background-size: cover;
-
-}
-
-.tornpaperimg {
-	display: none;
-}
-
-.tornpaperimgmobile {
-	display: block;
-}
-
-
 
 #hero {
 	padding-top: 8px;
-	height: 258px;
+	height: 260px;
 }
 
 .keyqualifications {
@@ -915,31 +774,17 @@ video {
 .justforfun {
 	display: block;
 	text-align: center;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
 	background-color: #ffffff;
 }
-.casestudyimage {
-	display: block;
-	width: 95%;
-	height: auto;
-	margin-left: auto;
-	margin-right: auto;
-	max-width: 800px;
-}
+
 
 }
 
 @media screen and (max-width: 1000px) {
 
-.myvideo {
-	width: 40%;
-	max-width: 40%;
-	height: auto;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
+
 
 
 
