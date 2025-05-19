@@ -804,7 +804,9 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 @media screen and (max-width: 1000px) {
 
 
-
+.greeting {
+	width: 80%;
+}
 
 
 .processcircle p {
