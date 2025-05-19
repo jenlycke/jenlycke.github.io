@@ -160,9 +160,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	background-image: url("Images/hero-image.jpg");
 	background-size: cover;
 	height: 250px;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+
 
 }
 #herocasestudy {
@@ -193,10 +191,8 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	min-width: 400px;
-	max-width: 1200px;
+    width: 800px;
 	height: 250px;
-	/*min-width: 60%;*/
 	min-height: 70%;
 	background: transparent !important;
 	opacity: .8;
@@ -747,12 +743,10 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 
 
-@media screen and (max-width: 765px) {
+@media only screen and (max-width: 765px) {
 
 .greeting {
-	width: 500px;
-	max-width: 500px;
-	min-width: 500px;
+	width: 400px;
 }
 
 
@@ -802,13 +796,12 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 }
 
-@media screen and (max-width: 1000px) {
+@media only screen and (max-width: 1000px) {
 
 
 .greeting {
 	width: 750px;
-	max-width: 750px;
-	min-width: 750px;
+
 }
 
 
