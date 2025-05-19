@@ -749,7 +749,11 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 @media screen and (max-width: 765px) {
 
-
+.greeting {
+	width: 500px;
+	max-width: 500px;
+	min-width: 500px;
+}
 
 
 .navbar-nav {
