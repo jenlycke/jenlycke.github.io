@@ -193,9 +193,10 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 625px;
+	min-width: 400px;
+	max-width: 1200px;
 	height: 250px;
-	min-width: 60%;
+	/*min-width: 60%;*/
 	min-height: 70%;
 	background: transparent !important;
 	opacity: .8;
@@ -769,10 +770,10 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 }
 
 .greeting {
-	width: 500px;
-	max-width: 500px;
+	width: 550px;
+	max-width: 550px;
+	min-width: 550px;
 }
-
 .keyqualifications {
 	padding-bottom: 5px;
 }
@@ -805,7 +806,9 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 
 .greeting {
-	width: 600px;
+	width: 750px;
+	max-width: 750px;
+	min-width: 750px;
 }
 
 
