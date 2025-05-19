@@ -769,9 +769,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	margin-right: auto;
 }
 
-.greeting {
-	width: 100%;
-}
+
 .keyqualifications {
 	padding-bottom: 5px;
 }
@@ -802,12 +800,12 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 @media screen and (max-width: 1000px) {
 
-
+/*
 .greeting {
 	width: 750px;
 	max-width: 750px;
 	min-width: 750px;
-}
+}*/
 
 
 .processcircle p {
