@@ -746,7 +746,7 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 @media only screen and (max-width: 765px) {
 
 .greeting {
-	width: 450px !important;
+	width: 100% !important;
 }
 
 
