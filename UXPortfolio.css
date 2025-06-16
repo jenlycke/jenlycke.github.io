@@ -252,6 +252,10 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	color: #ffffff;
 }
 
+.ui li {
+	color: #2F7D93;
+}
+
 
 
 /*process--------------------------------------*/
@@ -504,6 +508,16 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 	margin-right: auto;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
+}
+
+.uidesignimg {
+	display: block;
+	width: 100%;
+	max-width: 800px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 4px;
 }
 
 .viewcasestudybtn {
