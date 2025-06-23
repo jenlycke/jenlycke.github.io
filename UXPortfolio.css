@@ -260,7 +260,16 @@ ul.nav a:hover { color: #6aa7b9 !important; }
 
 /*process--------------------------------------*/
 
+.fade-in {
+  opacity: 0;
+  transform: translateY(0px);
+  transition: opacity 1s ease-out, transform 1s ease-out;
+}
 
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
 
 #process {
 	background-color: #e2f1f6;
